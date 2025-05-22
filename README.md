@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siphelele Maziya
 ========================================================================================================================================
 
-Software Developer student
+Software Developer 
 --------------------------
 
-I'm an IT - Software Development Student , looking forward on this journey of programming and etc.
+IT - Software Development Diploma , looking forward on this journey of programming.
 
 * 🌍  I'm based in Durban
 * ✉️  You can contact me at [sphelelemaziya908@gmail.com](mailto:sphelelemaziya908@gmail.com)
